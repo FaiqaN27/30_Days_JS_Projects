@@ -6,9 +6,10 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 
 ## 📅 Project List
 
-| Day | Project Name   | Live Demo     | Source Code                  |
-| --- | -------------- | ------------- | ---------------------------- |
-| 00  | To-Do List App | _coming soon_ | [View](Project_00_TodoList/) |
+| Day | Project Name              | Source Code                  |
+| --- | ------------------------- | ---------------------------- |
+| 00  | To-Do List App            | [View](Project_00_TodoList/) |
+| 01  | Random Password Generator | [View](Project_00_TodoList/) |
 
 ---
 
