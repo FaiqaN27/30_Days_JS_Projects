@@ -1,0 +1,18 @@
+split("T")[0] — What does it mean?
+When you call toISOString() on a JavaScript Date object, it returns a string like this:
+
+"2025-07-11T22:34:15.123Z"
+
+This string has two parts:
+
+"2025-07-11" → the date
+"22:34:15.123Z" → the time in UTC
+
+These parts are separated by the character 'T'
+
+The split("T") breaks the string into an array using "T" as the separator:
+
+"2025-07-11T22:34:15.123Z".split("T")
+Result: ["2025-07-11", "22:34:15.123Z"]
+📌 Now, what does [0] mean?
+The [0] accesses the first item in the array, which is the date only.

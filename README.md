@@ -10,6 +10,8 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | --- | ------------------------- | ------------------------------------------ |
 | 00  | To-Do List App            | [View](Project_00_TodoList/)               |
 | 01  | Random Password Generator | [View](Project_01_GenerateRandomPassword/) |
+| 01  | Random Password Generator | [View](Project_01_GenerateRandomPassword/) |
+| 02  | Age Calcutor              | [View](Project_02_AgeCalculator)           |
 
 ---
 
