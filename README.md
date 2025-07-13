@@ -12,6 +12,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 01  | Random Password Generator | [View](Project_01_GenerateRandomPassword/) |
 | 01  | Random Password Generator | [View](Project_01_GenerateRandomPassword/) |
 | 02  | Age Calcutor              | [View](Project_02_AgeCalculator)           |
+| 03  | Weather App               | [View](Project_03_WeatherApp)              |
 
 ---
 
