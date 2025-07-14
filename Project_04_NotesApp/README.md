@@ -1,4 +1,4 @@
-# 📝 Project 05 – Note-Taking App
+# 📝 Project 04 – Note-Taking App
 
 This is the fifth project in my **30 Days of JavaScript Projects** challenge.
 
