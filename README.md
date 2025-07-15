@@ -13,6 +13,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 02  | Age Calcutor              | [View](Project_02_AgeCalculator)           |
 | 03  | Weather App               | [View](Project_03_WeatherApp)              |
 | 04  | Notes App                 | [View](Project_04_NotesApp)                |
+| 05  | QR Code Generator         | [View](Project_05_QRcodeGenerator)         |
 
 ---
 
