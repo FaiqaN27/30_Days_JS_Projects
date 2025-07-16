@@ -15,7 +15,6 @@ async function getQuote(api_url) {
 }
 
 tweetBtn.addEventListener("click", () => {
-  console.log("hi");
   window.open("https://twitter.com/intent/tweet?text=" + quote.innerHTML + " by------ " + author.innerHTML, "Tweet window", "width= 600 , height = 300");
 })
 

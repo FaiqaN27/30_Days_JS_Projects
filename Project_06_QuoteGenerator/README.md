@@ -10,7 +10,7 @@ The **Quote of the Day** app fetches an inspiring quote using a public API and d
 
 - 📝 Display daily motivational quotes
 - 🔄 “New Quote” button fetches a fresh quote from the API
-- 🐦 “Tweet” button allows users to share quotes on Twitter
+- 🐦 “Tweet” button allows users to share quotes on Twitter(X)
 - 🌐 Uses a public quote API (e.g., [https://api.quotable.io/random](https://api.quotable.io/random))
 - 💬 Elegant, responsive, and centered design
 

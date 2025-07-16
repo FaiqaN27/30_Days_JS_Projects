@@ -30,6 +30,7 @@ I started this challenge to:
 
 ## 💬 Want to Connect?
 
-Feel free to connect with me on [LinkedIn] https://www.linkedin.com/in/faiqa-nadeem-82866b28b/ or check out more of my work on [GitHub] https://github.com/FaiqaN27
+Feel free to connect with me on [LinkedIn] https://www.linkedin.com/in/faiqa-nadeem-82866b28b/
+or check out more of my work on [GitHub] https://github.com/FaiqaN27
 
 #JavaScript #Frontend #VanillaJS #CodingChallenge #30DaysOfCode
