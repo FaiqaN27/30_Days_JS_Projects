@@ -14,6 +14,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 03  | Weather App               | [View](Project_03_WeatherApp)              |
 | 04  | Notes App                 | [View](Project_04_NotesApp)                |
 | 05  | QR Code Generator         | [View](Project_05_QRcodeGenerator)         |
+| 06  | Quote Generator           | [View](Project_06_QuoteGenerator)          |
 
 ---
 
