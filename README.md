@@ -15,6 +15,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 04  | Notes App                 | [View](Project_04_NotesApp)                |
 | 05  | QR Code Generator         | [View](Project_05_QRcodeGenerator)         |
 | 06  | Quote Generator           | [View](Project_06_QuoteGenerator)          |
+| 07  | Password Show/Hide        | [View](Project_07_HideShowPassword)        |
 
 ---
 
