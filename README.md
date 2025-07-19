@@ -17,6 +17,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 06  | Quote Generator           | [View](Project_06_QuoteGenerator)          |
 | 07  | Password Show/Hide        | [View](Project_07_HideShowPassword)        |
 | 08  | ImageGallery              | [View](Project_08_ImageGallery)            |
+| 09  | ToastNotification         | [View](Project_09_ToastNotification)       |
 
 ---
 
