@@ -6,7 +6,7 @@ A beautifully designed, minimalistic music player interface using HTML, CSS, and
 
 ## 📸 Preview
 
-## ![Music Player Screenshot 1](./assets/ss.jpg.png)
+## ![Music Player Screenshot 1](./assets/ss.jpg)
 
 ## 🚀 Features
 
