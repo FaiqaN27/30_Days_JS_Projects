@@ -19,6 +19,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 08  | ImageGallery              | [View](Project_08_ImageGallery)            |
 | 09  | ToastNotification         | [View](Project_09_ToastNotification)       |
 | 10  | MusicPlayer               | [View](Project_10_MusicPlayer)             |
+| 11  | Stopwatch                 | [View](Project_11_Stopwatch)               |
 
 ---
 
