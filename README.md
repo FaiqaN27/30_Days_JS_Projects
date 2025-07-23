@@ -21,6 +21,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 10  | MusicPlayer               | [View](Project_10_MusicPlayer)             |
 | 11  | Stopwatch                 | [View](Project_11_Stopwatch)               |
 | 12  | Calculator                | [View](Project_12_Calculator)              |
+| 13  | MiniCalendar              | [View](Project_13_MiniCalendar)            |
 
 ---
 
