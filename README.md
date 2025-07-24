@@ -23,6 +23,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 12  | Calculator                | [View](Project_12_Calculator)              |
 | 13  | MiniCalendar              | [View](Project_13_MiniCalendar)            |
 | 14  | DragDrop                  | [View](Project_14_DragDrop)                |
+| 15  | FormValidation            | [View](Project_15_FormValidation)          |
 
 ---
 
