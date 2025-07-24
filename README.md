@@ -25,6 +25,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 14  | DragDrop                  | [View](Project_14_DragDrop)                |
 | 15  | FormValidation            | [View](Project_15_FormValidation)          |
 | 16  | PopUp                     | [View](Project_16_PopUp)                   |
+| 17  | PasswordStrength          | [View](Project_17_PasswordStrength)        |
 
 ---
 
