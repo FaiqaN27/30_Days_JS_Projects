@@ -28,6 +28,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 17  | PasswordStrength          | [View](Project_17_PasswordStrength)        |
 | 18  | CircularLoader            | [View](Project_18_CircularLoader)          |
 | 19  | WebsiteComingPage         | [View](Project_19_WebsiteComingPage)       |
+| 20  | MenuDesign                | [View](Project_20_MenuDesign)              |
 
 ---
 
