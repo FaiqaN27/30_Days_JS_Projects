@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+  font-weight: 400;
+}
+
+.choices {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  gap: 15px;
+}
+
+.choice-btn {
+  width: 350px;
+  height: 40px;
+  font-size: 18px;
+  border: none;
+  background-color: #4facfe;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.choice-btn:hover {
+  background-color: #00c3ff;
+}
+
+.result-area {
+  margin-bottom: 20px;
+}
+
+#player-choice,
+#computer-choice,
+#result {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#result {
+  font-weight: 600;
+}
+
+#play-again {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4facfe;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: none;
+}
