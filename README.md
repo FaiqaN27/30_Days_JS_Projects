@@ -32,6 +32,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 21  | RockPaperScissor          | [View](Project_21_RockPaperScissor)        |
 | 22  | WorkingSubscriptionForm   | [View](Project_22_WorkingSubscriptionForm) |
 | 23  | Accordion                 | [View](Project_23_Accordion)               |
+| 24  | Counter                   | [View](Project_24 Counter)                 |
 
 ---
 
