@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 1.25rem;
+  font-size: 1.25rem;
+}
+.random-color-generator-container {
+  display: flex;
+  gap: 1rem;
+}
+.hex-color-container,
+.rgb-color-container {
+  min-height: 100vh;
+  flex: 1;
+  border-radius: 10px;
+}
+.hex-color-container button {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.125rem;
+  padding: 0.75rem 1.25rem;
+  background-color: rgb(230, 246, 127);
+}
+.rgb-color-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.hex-color-container {
+  background: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem;
+  flex-direction: column;
+  gap: 1.875rem;
+}
+.hex-color-value,
+.rgb-color-value {
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: white;
+}
+.rgb-color-container {
+  background: violet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem;
+}
+.rgb-color-container button {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.125rem;
+  padding: 0.75rem 1.25rem;
+  background-color: rgb(230, 246, 127);
+}
