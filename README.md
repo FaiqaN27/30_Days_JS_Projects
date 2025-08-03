@@ -34,6 +34,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 23  | Accordion                 | [View](Project_23_Accordion)               |
 | 24  | Counter                   | [View](Project_24_Counter)                 |
 | 25  | RandomColorGenerator      | [View](Project_25_RandomColorGenerator)    |
+| 26  | StarRating                | [View](Project_26_StarRating)              |
 
 ---
 

@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 1.875rem;
+}
+.main-container h1 {
+  color: purple;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+.fa-star-o::before {
+  content: "\f006";
+  font-size: 1.875rem;
+  color: gray;
+}
+.selected-rating-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
+}
+.selected-rating-container p {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: green;
+}
+.fa-star::before {
+  content: "\f005";
+  font-size: 1.875rem;
+  color: gold;
+}
+.fa-star-o:hover {
+  cursor: pointer;
+}
