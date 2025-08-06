@@ -36,6 +36,7 @@ This repository contains 30 mini-projects built with **HTML, CSS, and Vanilla Ja
 | 25  | RandomColorGenerator      | [View](Project_25_RandomColorGenerator)    |
 | 26  | StarRating                | [View](Project_26_StarRating)              |
 | 27  | LoadMoreProducts          | [View](Project_27_LoadMoreProducts)        |
+| 28  | TextToVoiceConverter      | [View](Project_28_TextToVoiceConverter)    |
 
 ---
 
